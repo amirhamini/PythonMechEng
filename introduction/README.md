@@ -8,5 +8,4 @@ Many online resources are available to gain deeper python knowledge, e.g.
 - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x8)
 
 Notebooks:
-- [Intro_Python_2.ipynb](https://github.com/amirhamini/PythonMechEng/blob/master/introduction/Intro_Python_2.ipynb): designed to help you start working with Python 2
-                     Topics: operations, input/outputs, functions, lists, and using packages
+- [Intro_Python_2.ipynb](https://github.com/amirhamini/PythonMechEng/blob/master/introduction/Intro_Python_2.ipynb): designed to help you start working with Python 2. This notebook includes materials regarding **operations**, **input/outputs**, **functions**, **lists**, and **using packages**
