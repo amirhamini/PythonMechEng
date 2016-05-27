@@ -10,4 +10,4 @@ Many online resources are available to gain deeper python knowledge, e.g.
 Notebooks:
 - [Intro_Python_2.ipynb](https://github.com/amirhamini/PythonMechEng/blob/master/introduction/Intro_Python_2.ipynb): designed to help you start working with Python 2
 
-                        Topics: operations, input/outputs, functions, lists, and using packages
+    Topics: operations, input/outputs, functions, lists, and using packages
